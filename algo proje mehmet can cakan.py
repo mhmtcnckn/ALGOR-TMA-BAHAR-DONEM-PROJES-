@@ -45,7 +45,7 @@ def hatirlatma():
 
 def alarmcal():
     print("Alarm! Sizi duyabilmeleri için dışarıdaki insanlara seslenin.")
-    #playsound("alarm.mp3")#
+    playsound("alarm.mp3")
 
 def program():
     zamanaraligi = 60
